@@ -1,0 +1,24 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Um pequeno sistema de crud's para aprendizado.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev" : "nodemon app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theuslefone/crud-node.git"
+  },
+  "author": "Matheus Ramos (Theuslefone)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theuslefone/crud-node/issues"
+  },
+  "homepage": "https://github.com/theuslefone/crud-node#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
