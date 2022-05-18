@@ -1,7 +1,11 @@
-Crud em Node
+# Projeto de Portifólio de NodeJs
 
-Primeiramente você deve instalar as dependencias necessárias pra rodar o programinha!!
-
--- Yarn install.
-
-logo depois poderá dar um npm run dev e fazer as requisições!# crud-node
+- [x]  ***[Primeiros passos](https://github.com/theuslefone/projeto-crud-node/)***
+- [ ]  ***Crud com Express***
+- [ ]  ***Crud com* NestJs**
+- [ ]  ***Envio de email***
+- [ ]  ***Autenticação de usuário***
+- [ ]  ***Crud com Mysql***
+- [ ]  ***TypeOrm***
+- [ ]  ***Crud com MongoDb***
+- [ ]  ***Login e pontuação de usuários***
