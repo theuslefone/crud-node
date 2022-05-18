@@ -1,7 +1,6 @@
 # Projeto de Portifólio de NodeJs
 
-- [x]  ***[Primeiros passos](https://github.com/theuslefone/projeto-crud-node/)***
-- [ ]  ***Crud com Express***
+- [x]  ***[Crud com Express](https://github.com/theuslefone/projeto-crud-node/)***
 - [ ]  ***Crud com* NestJs**
 - [ ]  ***Envio de email***
 - [ ]  ***Autenticação de usuário***
